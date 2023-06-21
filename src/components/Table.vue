@@ -1,5 +1,6 @@
 <script>
 	export default {
+		name: 'Table',
 		components: {},
 		props: {
 			tableTitle: String,
